@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Harrysibbenga/react-testapp/static/css/main.88bcff2f.chunk.css",
-    "main.js": "/Harrysibbenga/react-testapp/static/js/main.ca7318c2.chunk.js",
-    "main.js.map": "/Harrysibbenga/react-testapp/static/js/main.ca7318c2.chunk.js.map",
-    "runtime-main.js": "/Harrysibbenga/react-testapp/static/js/runtime-main.a1bff5f5.js",
-    "runtime-main.js.map": "/Harrysibbenga/react-testapp/static/js/runtime-main.a1bff5f5.js.map",
-    "static/js/2.b30bea1e.chunk.js": "/Harrysibbenga/react-testapp/static/js/2.b30bea1e.chunk.js",
-    "static/js/2.b30bea1e.chunk.js.map": "/Harrysibbenga/react-testapp/static/js/2.b30bea1e.chunk.js.map",
-    "static/js/3.c6b664d4.chunk.js": "/Harrysibbenga/react-testapp/static/js/3.c6b664d4.chunk.js",
-    "static/js/3.c6b664d4.chunk.js.map": "/Harrysibbenga/react-testapp/static/js/3.c6b664d4.chunk.js.map",
-    "index.html": "/Harrysibbenga/react-testapp/index.html",
-    "static/css/main.88bcff2f.chunk.css.map": "/Harrysibbenga/react-testapp/static/css/main.88bcff2f.chunk.css.map",
-    "static/js/2.b30bea1e.chunk.js.LICENSE.txt": "/Harrysibbenga/react-testapp/static/js/2.b30bea1e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Harrysibbenga/react-testapp/static/media/logo.6ce24c58.svg",
-    "static/media/python-logo.1f043312.jpg": "/Harrysibbenga/react-testapp/static/media/python-logo.1f043312.jpg"
+    "main.css": "/react-testapp/static/css/main.88bcff2f.chunk.css",
+    "main.js": "/react-testapp/static/js/main.ca7318c2.chunk.js",
+    "main.js.map": "/react-testapp/static/js/main.ca7318c2.chunk.js.map",
+    "runtime-main.js": "/react-testapp/static/js/runtime-main.6e4242ca.js",
+    "runtime-main.js.map": "/react-testapp/static/js/runtime-main.6e4242ca.js.map",
+    "static/js/2.b30bea1e.chunk.js": "/react-testapp/static/js/2.b30bea1e.chunk.js",
+    "static/js/2.b30bea1e.chunk.js.map": "/react-testapp/static/js/2.b30bea1e.chunk.js.map",
+    "static/js/3.c6b664d4.chunk.js": "/react-testapp/static/js/3.c6b664d4.chunk.js",
+    "static/js/3.c6b664d4.chunk.js.map": "/react-testapp/static/js/3.c6b664d4.chunk.js.map",
+    "index.html": "/react-testapp/index.html",
+    "static/css/main.88bcff2f.chunk.css.map": "/react-testapp/static/css/main.88bcff2f.chunk.css.map",
+    "static/js/2.b30bea1e.chunk.js.LICENSE.txt": "/react-testapp/static/js/2.b30bea1e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-testapp/static/media/logo.6ce24c58.svg",
+    "static/media/python-logo.1f043312.jpg": "/react-testapp/static/media/python-logo.1f043312.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1bff5f5.js",
+    "static/js/runtime-main.6e4242ca.js",
     "static/js/2.b30bea1e.chunk.js",
     "static/css/main.88bcff2f.chunk.css",
     "static/js/main.ca7318c2.chunk.js"
