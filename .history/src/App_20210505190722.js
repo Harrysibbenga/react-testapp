@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import customLogo from './python-logo.jpg'
+import customLogo from './python-logo.png'
 import './App.css';
 
 function Main(props) {

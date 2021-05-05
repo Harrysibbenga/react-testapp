@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import customLogo from './python-logo.jpg'
 import './App.css';
 
 function Main(props) {
@@ -45,10 +44,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div class="d-flex flex-row">
-            <img src={logo} className="App-logo" alt="logo" />
-            <img src={customLogo} className="App-logo" alt="Custom logo" />
-        </div>
+        <img src={logo} className="App-logo" alt="logo" />
         <Comment
           date={comment.date}
           text={comment.text}
